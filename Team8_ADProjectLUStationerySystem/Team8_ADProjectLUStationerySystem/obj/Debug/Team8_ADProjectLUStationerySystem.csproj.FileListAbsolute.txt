@@ -1,0 +1,608 @@
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+c:\users\e0001304\documents\visual studio 2013\Projects\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+F:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+E:\AD - UI Design\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\NanOopyin\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AjaxControlToolkit.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+E:\ADproject-Team8\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+C:\Users\e0005428\Downloads\copy3 (2)\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\copy3\Team8_ADProjectLUStationerySystem(AlmostFinish)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.csprojResolveAssemblyReference.cache
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+C:\Users\e0005428\Downloads\Team8_ADProjectLUStationerySystem(done test)\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll.config
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Team8_ADProjectLUStationerySystem.pdb
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\AspNet.ScriptManager.jQuery.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Owin.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Providers.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\WebGrease.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\System.Web.Optimization.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Antlr3.Runtime.pdb
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Newtonsoft.Json.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\EntityFramework.SqlServer.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Google.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.dll
+D:\Subanesh\Back up\16032016\Final\Team8_ADProjectLUStationerySystem\Team8_ADProjectLUStationerySystem\obj\Debug\Team8_ADProjectLUStationerySystem.pdb

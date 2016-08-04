@@ -1,0 +1,203 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zhongqishuai.lustationery.departmentHead.dhDelegate">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="449dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:stretchColumns="4"
+        android:weightSum="4" >
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Current Delegate Person:"
+                android:id="@+id/textView5"
+                android:layout_span="2"
+                android:layout_column="0" />
+        </TableRow>
+
+
+        <TableRow
+            android:id="@+id/tableRow13"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Current Delegat:"
+                android:id="@+id/textView6"
+                android:layout_column="0" />
+
+            <Button
+                android:layout_width="20dp"
+                android:layout_height="40dp"
+                android:text="UnDelegate"
+                android:id="@+id/button3"
+                android:clickable="false"
+                android:background="@color/Orange"
+                android:layout_column="1" />
+
+     </TableRow>
+
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Change Delegation"
+                android:textColor="@color/Red"
+                android:id="@+id/textView555"
+                android:paddingTop="20dp"
+                android:layout_column="0" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Select StartDate:"
+                android:id="@+id/textView55"
+                android:paddingTop="20dp"
+                android:layout_column="0" />
+
+
+            <EditText
+                android:id="@+id/etxt_fromdate"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:hint="@string/from_date"
+                android:paddingTop="20dp"
+        android:layout_column="1" />
+
+        </TableRow>
+
+        <TableRow
+        android:id="@+id/tableRow6"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Select Enddate :"
+            android:paddingTop="20dp"
+            android:id="@+id/textView666"
+            android:layout_column="0" />
+        <EditText
+            android:id="@+id/etxt_todate"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:hint="@string/to_date"
+            android:paddingTop="20dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_column="1" />
+    </TableRow>
+
+
+        <TableRow
+            android:id="@+id/tableRow7"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="20dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Reason :"
+                android:id="@+id/textView100"
+                android:paddingTop="20dp"
+                android:layout_column="0" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner3"
+                android:layout_gravity="left|center_vertical"
+                android:spinnerMode="dialog"
+                android:entries="@array/reason"
+                android:paddingTop="20dp"
+                android:layout_column="1"/>
+     </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Select Employee :"
+                android:paddingTop="20dp"
+                android:id="@+id/textView777"
+                android:layout_column="0" />
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner2"
+                android:layout_gravity="left|center_vertical"
+                android:paddingTop="20dp"
+                android:spinnerMode="dialog"
+                android:layout_column="1"/>
+        </TableRow>
+
+    </TableLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button4"
+        android:text="Change Delagation"
+        android:textSize="30dp"
+        android:background="@color/Orange"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="center_horizontal|bottom" />
+
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Change Delagation"-->
+        <!--android:id="@+id/button4"-->
+        <!--android:layout_gravity="center_horizontal|bottom" />-->
+
+</FrameLayout>

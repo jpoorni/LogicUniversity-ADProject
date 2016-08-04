@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="30dp"
+            android:text="Requistion Id"
+            android:id="@+id/textViewReqlbl"
+            android:layout_weight="0.06"
+            android:textColor="#652602" />
+
+    <TextView
+        android:layout_width="78dp"
+        android:layout_height="30dp"
+        android:text="New Text"
+        android:id="@+id/textViewReqId"
+        android:layout_weight="0.06"
+        android:textColor="#678902" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="30dp"
+            android:text="Total Quantity"
+            android:id="@+id/textViewReqQtylbl"
+            android:layout_weight="0.06"
+            android:textColor="#652602" />
+
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="30dp"
+            android:text="New Text"
+            android:id="@+id/textViewTotalQty"
+            android:layout_weight="0.06"
+            android:textColor="#678902" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="30dp"
+            android:text="Requistion"
+            android:id="@+id/textViewReqDateLbl"
+            android:layout_weight="0.06"
+            android:textColor="#652602" />
+
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="30dp"
+            android:text="date of Req.."
+            android:id="@+id/textViewReqDate"
+            android:layout_weight="0.06"
+            android:textColor="#678902" />
+    </TableRow>
+</TableLayout>

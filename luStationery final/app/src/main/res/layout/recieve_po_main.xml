@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/Receive_PO_Name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Purchase Order: "
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="5dp"/>
+
+    <Spinner
+        android:id="@+id/Receive_PO_Spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Receive_PO_Name"
+        android:prompt="@string/spinner_title"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.zhongqishuai.lustationery.clerk.receive_po_frag"
+        android:id="@+id/poDetails"
+        android:layout_below="@+id/Receive_PO_Spinner"
+        android:layout_alignParentStart="true" />
+    <RelativeLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent" android:gravity="bottom">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/RetrievalConfirm"
+            android:textSize="30dp"
+            android:id="@+id/btnConfirm"
+            android:background="@color/Orange"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Reject!"
+            android:textSize="30dp"
+            android:id="@+id/btnPOreject"
+            android:layout_below="@+id/btnConfirm"
+            android:background="@color/Red"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

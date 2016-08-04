@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=BOR31401;Initial Catalog=logicuniversity;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Subanesh\\Back\ up\\16032016\\Final\\Team8_ADProjectLUStationerySystem\\Team8_ADProjectLUStationerySystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="logicuniversityConnectionString-Web.config Connection String" description="logicuniversityConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=.;Initial Catalog=logicuniversity;Integrated Security=True;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Subanesh\\Back\ up\\16032016\\Final\\Team8_ADProjectLUStationerySystem\\Team8_ADProjectLUStationerySystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='logicuniversityConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="logicUniversityEntities-Web.config Connection String" description="logicUniversityEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/luSSEntityModel.csdl|res://*/luSSEntityModel.ssdl|res://*/luSSEntityModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=logicuniversity;integrated security=True;multipleactiveresultsets=True;application name=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Subanesh\\Back\ up\\16032016\\Final\\Team8_ADProjectLUStationerySystem\\Team8_ADProjectLUStationerySystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='logicUniversityEntities']/@connectionString" />
+  </parameter>
+  <parameter name="constringReport-Web.config Connection String" description="constringReport Connection String used in web.config by the application to access the database." defaultValue="Data Source=.;Initial Catalog=logicuniversity;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Subanesh\\Back\ up\\16032016\\Final\\Team8_ADProjectLUStationerySystem\\Team8_ADProjectLUStationerySystem\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='constringReport']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity"
+    android:weightSum="1">
+    <TextView
+        android:id="@+id/spinerName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="RETRIEVAL: "
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="5dp"/>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/spinerName"
+        android:prompt="@string/spinner_title"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:name="com.example.zhongqishuai.lustationery.clerk.retrieval_gridView_Frag"
+        android:id="@+id/retrievals"
+        android:layout_below="@+id/spinner"
+        android:layout_alignParentStart="true" />
+    <RelativeLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent" android:gravity="bottom">
+
+    <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/RetrievalConfirm"
+            android:textSize="30dp"
+            android:id="@+id/btnConfirm"
+            android:background="@color/Orange"/>
+
+
+    </RelativeLayout>
+
+    </LinearLayout>

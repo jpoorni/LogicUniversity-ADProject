@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="Login">Log in</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_username">Username</string>
+    <string name="DisbursementConfirm">Confirm</string>
+    <string name="spinner_title">DisbursementID</string>
+    <string name="R_spinner_title">RetrievalID</string>
+    <string name="RetrievalConfirm">Confirm</string>
+    <string name="ChangeButton">Change</string>
+    <string name="supplier_spinner_title">Supplier</string>
+    <string name="logout">Log out</string>
+    <string-array name="array_name">
+        <item>Administrative Building</item>
+        <item>Management School</item>
+        <item>Medical School</item>
+        <item>Engineering School</item>
+        <item>Science School</item>
+        <item>University Hospital</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="from_date">From Date</string>
+    <string name="to_date">To Date</string>
+    <string-array name="reason">
+    <item>None</item>
+    <item>Medical Leave</item>
+    <item>Official Travel</item>
+    </string-array>
+</resources>

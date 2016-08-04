@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b35e8791c6b94e9484555bc70d602e56" Name="Diagram1">
+        <EntityTypeShape EntityType="logicuniversityModel.adjustment" Width="1.5" PointX="7.5" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.adjustmentDetail" Width="1.5" PointX="12.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.category" Width="1.5" PointX="8.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.catelogueItem" Width="1.5" PointX="10.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.collectionPoint" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.delegateEmployee" Width="1.5" PointX="7.5" PointY="19.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.department" Width="1.5" PointX="3" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.disbursement" Width="1.5" PointX="10.5" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.disbursementDetail" Width="1.5" PointX="12.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.employee" Width="1.5" PointX="5.25" PointY="17.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.purchaseDetail" Width="1.5" PointX="12.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.purchaseOrder" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.requisition" Width="1.5" PointX="7.5" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.requisitionDetail" Width="1.5" PointX="12.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.requisitionStatu" Width="1.5" PointX="5.25" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.retrieval" Width="1.5" PointX="8.25" PointY="22.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.retrievalDetail" Width="1.5" PointX="10.5" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.retrievalRequisition" Width="1.5" PointX="9.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.role" Width="1.5" PointX="8.25" PointY="26.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.stockCard" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.supplier" Width="1.5" PointX="0.75" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.sysdiagram" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.userDetail" Width="1.5" PointX="10.5" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.REPORT_VIEW" Width="1.5" PointX="2.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="logicuniversityModel.VS_ORDER" Width="1.5" PointX="4.75" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="logicuniversityModel.FK_adjustment" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_adjustmentDetails_adjustmentId" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_adjustmentDetails_catelogueItem" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_catelogueItem" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursementDetails1" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_purchaseDetail_catelogueItem" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_requisitionDetails1" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_retrievalDetails1" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_stockCard" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_department" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursement2" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_delegate" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursement" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_employee" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_requisition1" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_retrievalDetails2" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_dd_d_Cascade" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursement_retrieval" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursement_retrieval1" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursement1" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_disbursementDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_requisition" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_retrievalDetails_employee" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_userDetails_employee" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_purchaseDetail_purchaseOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_purchaseOrder" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_requisition2" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_requisitionDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_retrievalRequisitions_requisition" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_retrievalDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_retrievalRequisitions_retrieval" ManuallyRouted="false" />
+        <AssociationConnector Association="logicuniversityModel.FK_userDetails1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

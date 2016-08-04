@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="78dp"
+            android:layout_height="30dp"
+            android:text="Item Description"
+            android:id="@+id/textViewItemDesc"
+            android:layout_weight="0.06"
+            android:textSize="15dp"
+            android:textColor="#678902" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Req. Quantity"
+            android:id="@+id/textViewItemQtyLbl"
+            android:layout_weight="0.06"
+            android:paddingRight="10dp"
+            android:textColor="#652602"
+            android:layout_column="0"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:text="New Text"
+            android:id="@+id/textViewReqQty"
+            android:layout_weight="0.06"
+            android:layout_column="1"
+            android:textColor="#678902" />
+
+    </TableRow>
+</TableLayout>

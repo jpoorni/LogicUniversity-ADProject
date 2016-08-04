@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/itemFragment"
+    tools:context="com.example.zhongqishuai.lustationery.Employee.item1Fragment">
+
+    <!--<GridView-->
+        <!--android:id="@+id/gridView1"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:stretchMode="columnWidth"-->
+        <!--android:numColumns="3" >-->
+    <!--</GridView>-->
+
+    <!--<GridView-->
+        <!--android:id="@+id/gridView1"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="fill_parent"-->
+        <!--android:columnWidth="60dp"-->
+        <!--android:numColumns="3"-->
+        <!--android:layout_marginLeft="2dp"-->
+
+        <!--android:verticalSpacing="10dp"-->
+        <!--android:horizontalSpacing="10dp"-->
+        <!--android:stretchMode="columnWidth"-->
+        <!--android:gravity="center"-->
+        <!--/>-->
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10dp"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:columnWidth="60dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        />
+
+</FrameLayout>
+    </LinearLayout>

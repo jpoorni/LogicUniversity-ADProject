@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_width="189dp"
+            android:layout_height="225dp"
+            android:id="@+id/additem_imageView"
+            android:background="#fbe4e4"
+            android:layout_centerHorizontal="true" />
+        <!--android:layout_gravity="left|center_horizontal"/>-->
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/add_po_textViewItemDesc"
+            android:layout_below="@+id/additem_imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="26dp"
+            android:textColor="#044efa"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="UOM"
+            android:id="@+id/add_po_textViewUOMdes"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="30dp"
+            android:layout_below="@+id/add_po_textViewItemDesc"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/add_po_textViewUOM"
+            android:layout_below="@+id/add_po_textViewItemDesc"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Quantity"
+            android:id="@+id/add_po_textViewQty"
+            android:layout_below="@+id/add_po_textViewUOMdes"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="30dp"
+            />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/add_po_editTextQty"
+            android:maxLength="4"
+            android:layout_below="@+id/add_po_textViewQty"
+            android:layout_centerHorizontal="true"
+            android:imeOptions="actionDone"
+            android:textAlignment="center"
+             />
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add to Cart"
+            android:id="@+id/add_po_buttonAddCart"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:paddingBottom="10dp"
+            android:layout_alignParentStart="true"
+            android:textSize="30dp"
+            android:layout_column="1"
+            android:background="@color/Orange"/>
+
+
+</RelativeLayout>

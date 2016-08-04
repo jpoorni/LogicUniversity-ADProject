@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="70dp"
+        android:id="@+id/imageView"
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="New Text"
+        android:id="@+id/textView1"
+
+        style="@android:style/TextAppearance.Holo.Medium"
+        android:fontFamily="@string/abc_capital_on"
+        android:textColor="#000000"
+        android:layout_marginEnd="59dp"
+        android:layout_alignBottom="@+id/imageView"
+        android:layout_alignParentEnd="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="New Text"
+        android:id="@+id/textView2"
+
+
+        style="@android:style/TextAppearance.Holo.Medium"
+        android:fontFamily="@string/abc_capital_on"
+        android:textColor="#000000"
+        android:layout_above="@+id/textView1"
+        android:layout_alignStart="@+id/textView1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Quantity"
+        android:id="@+id/textView3"
+        android:layout_above="@+id/textView4"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Amount $"
+        android:id="@+id/textView4"
+        android:layout_below="@+id/textView2"
+        android:layout_alignEnd="@+id/textView3" />
+
+</RelativeLayout>

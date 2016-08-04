@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    >
+    <com.example.zhongqishuai.lustationery.GridViewImageViewForItem
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:padding="0dp"
+        />
+
+    <TextView
+        android:id="@+id/purchaseItemText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+        android:layout_gravity="bottom"
+        android:textSize="10sp"
+        android:textColor="@android:color/white"
+        android:background="#55000000"/>
+</FrameLayout>

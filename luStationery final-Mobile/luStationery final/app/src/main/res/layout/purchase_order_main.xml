@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        class="com.example.zhongqishuai.lustationery.clerk.purchase_order_category_frag"
+        android:id="@+id/purchase_catFrag"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="20dp">
+    </fragment>
+
+    <FrameLayout
+        android:id="@+id/itemframe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical">
+    </FrameLayout>
+</LinearLayout>

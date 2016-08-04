@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="PO No:"
+                android:id="@+id/textView3"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:layout_above="@+id/textView4"
+                android:layout_alignTop="@+id/textView5"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Medium Text"
+                android:id="@+id/textView4"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/textView3"
+                android:layout_alignBottom="@+id/textView6"
+                android:layout_alignStart="@+id/textView3"
+                android:layout_alignEnd="@+id/textView3"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Total Amount"
+                android:id="@+id/textView5"
+                android:layout_above="@+id/textView6"
+                android:layout_centerHorizontal="true"
+                android:layout_alignTop="@+id/textView2"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Date"
+                android:id="@+id/textView6"
+                android:layout_alignBottom="@+id/textView1"
+                android:layout_alignStart="@+id/textView5"
+                android:layout_alignEnd="@+id/textView5"
+                android:layout_below="@+id/textView5"
+                android:textSize="15dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="New Text"
+                android:id="@+id/textView2"
+
+
+                style="@android:style/TextAppearance.Holo.Medium"
+                android:fontFamily="@string/abc_capital_on"
+                android:textColor="#000000"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/textView1"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:text="New Text"
+                android:id="@+id/textView1"
+
+                style="@android:style/TextAppearance.Holo.Medium"
+                android:fontFamily="@string/abc_capital_on"
+                android:textColor="#000000"
+                android:layout_below="@+id/textView2"
+                android:layout_alignParentEnd="true"
+                android:textSize="15dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
